@@ -25,11 +25,4 @@ Windows Defender 免杀：
 ![1691854925127-062fc365-9f76-453e-934a-d6b576f99353](https://github.com/ZackSecurity/Phobos/assets/34084717/d490e4e0-8a28-4af3-9ba0-d3763401b5df)
 火绒免杀：
 ![1691854967092-9b4c5b05-682e-4498-966a-941f1b57aa4e](https://github.com/ZackSecurity/Phobos/assets/34084717/1454aab8-a6cf-40d0-8761-e8bf1cc29e4c)
-动态免杀上线Cobalt Strike：
-
-
-
-
-
-
 
