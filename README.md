@@ -10,7 +10,7 @@ Phobos 是一款红队专用免杀木马生成器，采用 PEM 加密动态嵌�
 pip install -r requests.txt
 
 ![1691853468986-811cd8b1-3eaf-49f3-bdd3-6587704d35ac](https://github.com/ZackSecurity/Phobos/assets/34084717/799d9780-a51e-42f5-9b49-eedd2f576230)
-双击打开Phobos.exe工具，输入Shellcode（这里使用Cobalt Strike的Python Shellcode）：
+双击打开Phobos.exe工具，输入Shellcode（这里使用Cobalt Strike的Shellcode）：
 ![1691853625304-20335621-dcd2-4c23-a009-1830d5e093bd](https://github.com/ZackSecurity/Phobos/assets/34084717/d7a0ec71-b7c2-4ba4-9e12-2e504b1b8c43)
 可选择输入生成木马名称和木马图标：
 ![1691853713422-8b35b5ee-aa08-4aa6-8e00-6bcc4a01befb](https://github.com/ZackSecurity/Phobos/assets/34084717/c538149e-26e0-4ea7-8848-29d656cfe2e7)
